@@ -1,2 +1,17 @@
-package org.example;public class Pessoa {
+package org.example;
+
+public class Pessoa {
+
+    private String nome;
+
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
+
+    public String getNome() {
+        return nome;
+    }
 }
+
+
+
