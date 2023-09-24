@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b908f9e3-6402-404b-95da-5ae603aaf7e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContaConjunto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContaSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PessoaJuridica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/enu/TipoConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfac/ConsultaSaldo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfac/TransacoesBancarias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContaConjuntaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContaCorrenteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContaPoupancaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ContaSalarioTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b908f9e3-6402-404b-95da-5ae603aaf7e0" name="Changes" comment="Alteracao" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +116,20 @@
       <option name="presentableId" value="Default" />
       <updated>1694374562211</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alteracao">
+      <option name="closed" value="true" />
+      <created>1695516770083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695516770084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alteracao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteracao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
